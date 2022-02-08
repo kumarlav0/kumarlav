@@ -1,4 +1,4 @@
-# Hi there, I'm Kumar Lav [CodeCatCallback][youtube] 👋 
+# Hi there, I'm Kumar Lav [CodeCatCallback]
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCaNs4-sHJzz6Nd-JS_LqPXw)][youtube]
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fkumarstslav.blogspot.com%2F)](https://kumarstslav.blogspot.com/)
@@ -13,8 +13,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://toletnetworks.com/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://toletnetworks.com/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/c/TourWELL#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/c/TourWELL#gh-dark-mode-only)
